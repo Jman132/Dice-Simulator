@@ -1,6 +1,6 @@
 import random
 
-print ("This is a dice (die) simulator \n  This simulator allows you to choose up to 4 die and the number of sides the die have up to 12 sides")
+print ("This is a dice (die) simulator \n  This simulator allows you to choose up to 3 die and the number of sides the die have up to 12 sides")
 
 #check user input for number of dice
 while True:
